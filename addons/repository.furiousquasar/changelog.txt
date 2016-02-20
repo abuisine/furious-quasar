@@ -1,2 +1,5 @@
+v1.1.0
+- New logos
+
 v1.0.0
 - Initial version of the Furious Quasar repository
