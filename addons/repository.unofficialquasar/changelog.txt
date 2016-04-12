@@ -1,3 +1,9 @@
+v1.0.4
+* Moved Repo folder location
+
+v1.0.3
+* Fixes
+
 v1.0.2
 * Changed AddonID
 
